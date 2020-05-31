@@ -1,0 +1,2 @@
+# -Video-Memorability-Prediction
+In this paper, several simple regression models are compared with simple deep learning regression models which use both videos as well as semantic features to predict memorability scores. Used various simple regression models to compare and get the best results out of the predicted score. • Linear Regression • Decision Tree • Random Forest • Ridge Regression • XGBoost • Support Vector Regression • Linear Bayesian Ridge Regression • Simple Neural Network
